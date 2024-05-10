@@ -1,0 +1,31 @@
+Pauli Matrix σx:
+Eigenvectors:
+[[ 0.70710678+0.j          0.70710678+0.j        ]
+ [ 0.70710678+0.j         -0.70710678+0.j        ]]
+Eigenvalues:
+[ 1. -1.]
+
+Pauli Matrix σy:
+Eigenvectors:
+[[ 0.70710678+0.j   0.70710678-0.j   ]
+ [ 0.        -0.70710678j 0.        +0.70710678j]]
+Eigenvalues:
+[ 0.+1.j  0.-1.j]
+
+Pauli Matrix σz:
+Eigenvectors:
+[[1. 0.]
+ [0. 1.]]
+Eigenvalues:
+[ 1. -1.]
+
+Orthonormal Decompositions:
+Pauli Matrix σx:
+[[ 0.5+0.j   0.5+0.j ]
+ [ 0.5+0.j   0.5-0.j ]]
+Pauli Matrix σy:
+[[ 0.0+0.5j   0.0-0.5j]
+ [ 0.0+0.5j   0.0-0.5j]]
+Pauli Matrix σz:
+[[ 1.0+0.j   0.0+0.j ]
+ [ 0.0+0.j  -1.0+0.j ]]
